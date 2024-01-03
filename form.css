@@ -1,0 +1,22 @@
+body
+{
+    background-color: plum;
+}
+
+.b
+{
+    border:solid 3px black;
+    width: 40%;
+    height: 40%;
+}
+
+button
+{
+    background-color: plum;
+    width: 40%;
+}
+button:hover
+{
+    background-color: azure;
+    
+}

@@ -1,0 +1,54 @@
+body{
+    background-color: aquamarine;
+}
+header
+{
+    border-bottom: solid 3px black;
+    width: 100%;
+}
+h1{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+a
+{
+    width: 40%;
+    display: inline;
+    text-align: center;
+    text-decoration: none;
+    border: solid 1px black;
+    font-size: 30px;
+    background-color: white;
+    color: black;
+}
+a:hover
+{
+  background-color: rgb(27, 180, 200);
+}
+button
+{
+    width: 30%;
+    background-color: peachpuff;
+    font-size: 20px;
+    margin-left: 30%;
+}
+footer
+{
+    border-top: solid 3px black;
+    border-bottom: solid 3px black;
+    display: flex;
+  padding: auto;
+ font-size: 25px;
+}
+.button{
+    width: 30%;
+    background-color: peachpuff;
+    font-size: 20px;
+    margin-left: 30%;
+}
+.dsty{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+
